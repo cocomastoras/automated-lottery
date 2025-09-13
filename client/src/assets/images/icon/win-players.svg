@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/win-players</title>
+    <g id="Icon/win-players" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M12.2,2.38521412 C13.38536,2.99162 14.2,4.25082118 14.2,5.70588235 C14.2,7.16094353 13.38536,8.42015294 12.2,9.02651765 M13.8,13.3370353 C15.0092,13.9002471 16.098,14.8182353 17,16 M1,16 C2.557192,13.9597882 4.671344,12.7058824 7,12.7058824 C9.32864,12.7058824 11.4428,13.9597882 13,16 M10.6,5.70588235 C10.6,7.75258353 8.98824,9.41176471 7,9.41176471 C5.011776,9.41176471 3.4,7.75258353 3.4,5.70588235 C3.4,3.65918118 5.011776,2 7,2 C8.98824,2 10.6,3.65918118 10.6,5.70588235 Z" id="Shape" stroke="#030303" stroke-width="1.8"></path>
+    </g>
+</svg>

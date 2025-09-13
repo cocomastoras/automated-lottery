@@ -1,2 +1,2 @@
 # automated-lottery
-Automated onchain lottery using chainlink's VRF and Automations. 5 minute rounds or Tickets sold out for winner resolution. Dummy web-app
+Automated onchain lottery using chainlink's VRF and Automations. 5 minute rounds or Tickets sold out for winner resolution. Dummy web-app and telegram bot included.

@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+}
+.tooltip .tooltiptext {
+  visibility: hidden;
+  position: absolute;
+  background-color: #555;
+  color: #fff;
+  border-radius: 6px;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 18px;
+  z-index: 1;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+.tooltip-left {
+  top: -5px;
+  bottom: auto;
+  right: 128%;
+}
+.tooltip-left::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 100%;
+  margin-top: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent transparent transparent #555;
+}
+.tooltip-right {
+  top: -5px;
+  bottom: auto;
+  left: 128%;
+}
+.tooltip-right::after {
+  content: '';
+  position: absolute;
+  top: 16px;
+  right: 100%;
+  margin-top: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent #555 transparent transparent;
+}
+.tooltip.show .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 0.15s linear;
+}
+.fade-enter,
+.fade-leave-to {
+  opacity: 0;
+}
+
+@keyframes blinking {
+  0% {
+    color: #030303;
+  }
+  50% {
+    color: #f4ae3a;
+  }
+  100% {
+    color: #030303;
+  }
+}
+
+.winner-animation {
+  animation: blinking 3s infinite;
+}
+
+@keyframes rotating {
+  from {
+    transform: rotate(-90deg);
+  }
+  to {
+    transform: rotate(270deg);
+  }
+}
+
+.rotating {
+  animation: rotating 2s linear infinite;
+}
