@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Icon/win-now</title>
-    <g id="Icon/win-now" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
-        <path d="M10.2708451,1 L3.40540773,9.55032 C3.13653476,9.88512 3.00210213,10.05256 3,10.194 C2.99825569,10.31688 3.05104208,10.43384 3.1431716,10.51112 C3.24915292,10.6 3.45914994,10.6 3.87914399,10.6 L9.50001576,10.6 L8.72918647,17 L15.5945776,8.44968 C15.8634428,8.11488 15.9978754,7.94744 16,7.806 C16.0017296,7.68312 15.9490049,7.56616 15.8568137,7.48888 C15.7508247,7.4 15.5408508,7.4 15.120903,7.4 L9.50001576,7.4 L10.2708451,1 Z" id="Path" stroke="#030303" stroke-width="1.8"></path>
-    </g>
-</svg>

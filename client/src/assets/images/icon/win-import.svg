@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Icon/win-import</title>
-    <g id="Icon/win-import" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <circle id="BG" fill="#030303" cx="20" cy="20" r="20"></circle>
-        <path d="M24,20 L20,16 M20,16 L16,20 M20,16 L20,25.2 C20,26.5907 20,27.2861 20.5505,28.0646 C20.9163,28.5819 21.9694,29.2203 22.5972,29.3054 C23.5421,29.4334 23.9009,29.2462 24.6186,28.8719 C27.8167,27.2036 30,23.8568 30,20 C30,14.47715 25.5228,10 20,10 C14.47715,10 10,14.47715 10,20 C10,23.7014 12.01099,26.9331 15,28.6622" id="Shape" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"></path>
-    </g>
-</svg>
